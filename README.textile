@@ -1,0 +1,11 @@
+h1. Introduction
+
+This is a little framework for counting stuff and keeping track of average duration. Useful for keeping track of metrics for things like making web service calls, etc.
+
+h1. Installation
+
+It's a maven project. So, checking it out and doing a mvn clean install should do the trick. If there is demand for it, I may eventually deploy a stable jar somewhere. If you really need this, please contact me.
+
+However, since it is only a few classes, I recommend you simply copy it into your project and adapt it to your needs. The license allows you to do this and I have no problems with this.
+
+Should anyone like this licensed differently, please contact me.
