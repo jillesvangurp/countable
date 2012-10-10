@@ -1,3 +1,7 @@
+h1. Merged into XMLTools
+
+I no longer maintain this. I originally needed this for my xmltools project, which now has similar functionality included. So, go look there.
+
 h1. Introduction
 
 This is a little framework for counting stuff and keeping track of average duration. Useful for keeping track of metrics for things like making web service calls, etc.
